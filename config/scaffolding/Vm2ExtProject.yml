@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Vm2ExtProject
+  gitServerName: Vm2ExtPrt
+  gitUrl: https://github.com/Kruthika-K-IBM
+  gitUsername: Kruthika-K-IBM
+  gitBranch: main
